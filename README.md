@@ -1,4 +1,4 @@
-## Live demo [here](https://devmayor15.github.io/recipe-app) desktop view only
+## Live demo [here](https://devmayor15.github.io/recipe-app), desktop view only
 
 # Getting Started with Create React App
 
